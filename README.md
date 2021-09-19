@@ -1,2 +1,1 @@
-# resume
-It contains html, css and js files.
+--> It contains html, css and js files.
